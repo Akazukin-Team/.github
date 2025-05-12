@@ -46,12 +46,12 @@ Here are some of our featured projects:
 
   👉 [Try Akazukin Bot](https://discord.com/oauth2/authorize?client_id=858365656024743947)
 
-
 ---
 
 ### 🤝 Let's Collaborate!
 
-We are always open to collaboration. Feel free to contribute to any of our projects or reach out to discuss new ideas.
+We are always open to collaboration.<br>
+Feel free to contribute to any of our projects or reach out to discuss new ideas.
 
 📧 Contact Us: [Akazukin.Team+Contact@gmail.com](mailto:Akazukin.Team+Contact@gmail.com)
 
