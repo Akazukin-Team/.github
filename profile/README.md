@@ -38,13 +38,13 @@ Here are some of our featured projects:
   Whether you want to enhance your building with custom artwork or create your favorite illustrations within Minecraft,
   the Mapart Plugin has you covered.
 
-👉 [Learn more about the plugin](https://github.com/Akazukin-Team/Mapart-Plugin)
+  👉 [Learn more about the plugin](https://github.com/Akazukin-Team/Mapart-Plugin)
 
 - **Akazukin Bot**  
   A multi-functional Discord bot with a primary focus on music playback.  
   The bot supports a variety of platforms, including YouTube, Apple Music, and Bilibili.
 
-👉 [Try Akazukin Bot](https://discord.com/oauth2/authorize?client_id=858365656024743947)
+  👉 [Try Akazukin Bot](https://discord.com/oauth2/authorize?client_id=858365656024743947)
 
 
 ---
